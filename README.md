@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @jeffreykowalski-git
 - 👀 I’m an experinced web developer with 18 years experience in PHP, JS/Node/Vue/React/JQuery, Wordpress, Laravel, css/SCSS, dev tools etc.
-- 🌱 I’m currently working on my Vue skills :P
+- 🌱 I’m currently working as a subcontractor with some amazing design firms.
 - 📫 How to reach me at me@jeffreykowalski.com
 
 <!---
